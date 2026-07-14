@@ -1,3 +1,4 @@
+<img width="798" height="580" alt="image" src="https://github.com/user-attachments/assets/3a641427-f49a-41bd-b34c-7d85c0c21fa9" />
 
 
 # **COMBINED LAB REPORT: ADVANCED ROUTING, SWITCHING & INFRASTRUCTURE HARDENING**
