@@ -1,3 +1,6 @@
+<img width="965" height="606" alt="image" src="https://github.com/user-attachments/assets/28bbf031-891e-4b58-9615-1cfdf918991c" />
+
+
 \# LAB 03: INFRASTRUCTURE HARDENING & TRANSPORT SECURITY (SSH)  
 \*\*Document Type:\*\* Low-Level Design (LLD) / Security Hardening Documentation    
 \*\*Project Name:\*\* Implementing Password Encryption and Secure Remote Access (SSH)    
