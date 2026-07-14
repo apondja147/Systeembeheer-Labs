@@ -1,6 +1,5 @@
-# **![][image1]**
+<img width="696" height="572" alt="image" src="https://github.com/user-attachments/assets/46b6e598-7802-412c-b3df-7cb9242ca15e" />
 
-# 
 
 # **LAB 05: INDUSTRIAL OT/IT SEGREGATION & MODBUS PORT PROTECTION**
 
