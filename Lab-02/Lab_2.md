@@ -1,3 +1,4 @@
+<img width="945" height="902" alt="image" src="https://github.com/user-attachments/assets/ce958ee5-532d-47da-8a29-bb27290828ae" />
 
 
 # **LAB 02: STATIC ROUTING FOUNDATIONS & NETWORK HARDENING**
