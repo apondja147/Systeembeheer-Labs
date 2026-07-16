@@ -1,3 +1,6 @@
+<img width="962" height="770" alt="image" src="https://github.com/user-attachments/assets/c07f32eb-ca82-4ce3-a5e9-d67173b4812b" />
+
+
 # **LAB 06: INDUSTRIAL NAT & ASSET OBFUSCATION**
 
 **Document Type:** Industrial Network Address Translation (NAT) & Asset Hiding Design. **Project Name:** Perimeter Defense & PLC IP Masking via Static NAT. **Author:** P. Apondja. **Status:** Fully Validated & Approved. **Date:** June 26, 2026\.
