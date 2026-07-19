@@ -1,3 +1,6 @@
+<img width="962" height="881" alt="image" src="https://github.com/user-attachments/assets/8000835b-943a-4732-91c2-ab45ffe97389" />
+
+
 # **LAB 09: LAYER 2 OT SWITCH HARDENING**
 
 **Document Type:** Physical Security & Layer 2 Access Control. **Project Name:** Implementatie van Port Security & Sticky MAC op de Fabrieksvloer. **Author:** P. Apondja. **Status:** Fully Validated & Approved. **Date:** July 19, 2026\.
