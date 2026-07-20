@@ -1,3 +1,6 @@
+<img width="965" height="771" alt="image" src="https://github.com/user-attachments/assets/a78b9d50-692a-4f08-adb3-d7a46493ea2a" />
+
+
 # **LAB 10: OT NETWORK SEGMENTATION & ZONE ROUTING**
 
 **Document Type:** Purdue Model Architecture & VLAN Segmentation. **Project Name:** Logische Isolatie van de Fabrieksvloer via Router-on-a-Stick. **Author:** P. Apondja. **Status:** Fully Validated & Approved. **Date:** July 20, 2026\.
