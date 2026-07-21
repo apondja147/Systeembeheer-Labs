@@ -1,3 +1,6 @@
+<img width="957" height="775" alt="image" src="https://github.com/user-attachments/assets/840d82ec-9d0c-4b60-8f92-35b83c9282b7" />
+
+
 # **RAPPORTAGE LAB 11: ENTERPRISE-ARCHITECTUUR EN BEVEILIGINGSHARDENING**
 
 **Documentclassificatie:** Netwerkbeveiliging, Verkeersinspectie en Gecentraliseerde Monitoring
