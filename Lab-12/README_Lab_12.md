@@ -1,3 +1,6 @@
+<img width="955" height="772" alt="image" src="https://github.com/user-attachments/assets/7eb19155-4472-4da6-8fb6-d31f30f1d1ac" />
+
+
 # **LAB 12: DYNAMIC ROUTING & INFRASTRUCTURE RESILIENCE (FINAL)**
 
 **Document Type:** Network Engineering, Dynamic Routing & Fault Tolerance
