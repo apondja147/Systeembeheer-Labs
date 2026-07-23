@@ -1,3 +1,6 @@
+<img width="961" height="783" alt="image" src="https://github.com/user-attachments/assets/13db7a9d-8f14-40db-a9e3-3305f4d5d42e" />
+
+
 # **LAB 13: SWITCH PORT SECURITY & NETWORK HARDENING (FINAL)**
 
 **Document Type:** Network Security & Layer 2 Defense
