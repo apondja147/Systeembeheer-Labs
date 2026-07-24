@@ -1,3 +1,6 @@
+<img width="947" height="768" alt="image" src="https://github.com/user-attachments/assets/655892f2-6b61-4701-a1c0-701fb3da0b7e" />
+
+
 # **LAB 17: OT SECURE REMOTE ACCESS (SSH MANAGEMENT)**
 
 **Document Type:** Remote Access & Secure OT Management
