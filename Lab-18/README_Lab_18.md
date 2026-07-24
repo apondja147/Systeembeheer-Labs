@@ -1,3 +1,6 @@
+<img width="961" height="777" alt="image" src="https://github.com/user-attachments/assets/4e8272cc-e413-4eaa-85aa-3ceb1dd9e9a5" />
+
+
 # **LAB 18: OT NETWORK MONITORING & CENTRAL SYSLOG LOGGING (FINAL)**
 
 **Document Type:** OT/ICS Security Operations & Threat Detection  
