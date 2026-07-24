@@ -1,3 +1,6 @@
+<img width="955" height="772" alt="image" src="https://github.com/user-attachments/assets/1f3a1a39-006d-4025-a3d6-746aa6b83d96" />
+
+
 # **LAB 14: INTER-VLAN ROUTING & DHCP CONFIGURATION (FINAL)**
 
 **Document Type:** Network Infrastructure & Dynamic Host Configuration
