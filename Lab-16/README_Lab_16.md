@@ -1,3 +1,7 @@
+<img width="965" height="776" alt="image" src="https://github.com/user-attachments/assets/7c20e939-8f4d-4cb6-81ea-c04e54100d8d" />
+
+
+
 # **LAB 16: OT ZONE EXPANSION & SCADA/HMI MANAGEMENT (FINAL)**
 
 **Document Type:** OT/ICS Infrastructure & SCADA Security
