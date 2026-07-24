@@ -1,3 +1,6 @@
+<img width="956" height="771" alt="image" src="https://github.com/user-attachments/assets/54995eb8-30d0-46f7-af46-5fa60287144b" />
+
+
 # **LAB 15: OT/IT CONVERGENCE & INDUSTRIAL ACCESS CONTROL**
 
 **Document Type:** OT/ICS Security & Industrial Network Integration
