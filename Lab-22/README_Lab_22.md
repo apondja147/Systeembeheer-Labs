@@ -1,3 +1,7 @@
+<img width="957" height="775" alt="image" src="https://github.com/user-attachments/assets/7ef98056-10b1-4a7c-98ed-64b243348b2a" />
+
+
+
 # **LAB 22: OT TOPOLOGY EXPANSION (PLC-POMP-A) & MULTI-PLC SEGMENTATION (FINAL)**
 
 **Document Type:** Multi-Zone Industrial Topology & Segmentation  
