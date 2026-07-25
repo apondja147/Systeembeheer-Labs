@@ -1,3 +1,6 @@
+<img width="958" height="771" alt="image" src="https://github.com/user-attachments/assets/bb8c7077-64d5-4719-a763-fab6be9ee253" />
+
+
 **LAB 20: DHCP SNOOPING & DYNAMIC ARP INSPECTION (DAI) (FINAL)**
 
 **Document Type:** Layer 2 Attack Mitigation & Infrastructure Hardening
