@@ -1,3 +1,7 @@
+<img width="958" height="772" alt="image" src="https://github.com/user-attachments/assets/674eadc7-4287-4221-9485-b87087b5c25b" />
+
+
+
 # **LAB 23: INCIDENT RESPONSE & UNUSED PORT HARDENING (FINAL)**
 
 **Document Type:** Threat Mitigation & Physical Port Hardening  
