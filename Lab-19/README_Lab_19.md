@@ -1,3 +1,6 @@
+<img width="950" height="768" alt="image" src="https://github.com/user-attachments/assets/7f532f1f-dddf-4ddf-9286-ad1ada7b8a39" />
+
+
 # **LAB 19: SWITCH PORT SECURITY & ROGUE DEVICE MITIGATION (FINAL)**
 
 **Document Type:** Layer 2 Infrastructure Security & Port Hardening
