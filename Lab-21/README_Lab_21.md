@@ -1,3 +1,7 @@
+<img width="957" height="772" alt="image" src="https://github.com/user-attachments/assets/b7d34362-3c64-4741-ac85-c5ef247c3c5c" />
+
+
+
 # **LAB 21: AAA AUTHENTICATION & CENTRAL USER MANAGEMENT (FINAL)**
 
 **Document Type:** Identity, Credential & Access Management (ICAM)  
