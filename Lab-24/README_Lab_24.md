@@ -1,3 +1,7 @@
+<img width="957" height="768" alt="image" src="https://github.com/user-attachments/assets/41bd42ca-090b-4910-8323-e706498e1a78" />
+
+
+
 # **LAB 24: TRAFFIC STORM CONTROL & ROGUE BROADCAST MITIGATION (FINAL)**
 
 **Document Type:** Layer 2 Denial-of-Service Defense & Traffic Shaping
