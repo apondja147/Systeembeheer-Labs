@@ -1,3 +1,8 @@
+<img width="956" height="772" alt="image" src="https://github.com/user-attachments/assets/4278a681-91f2-4237-bd06-1a1add6ca312" />
+
+
+
+
 # **LAB 25: ENTERPRISE WAN ROUTING & SITE-TO-SITE CONNECTIVITY (MASTER DOC)**
 
 **Document Type:** Enterprise WAN Architecture & Cross-Site Routing
