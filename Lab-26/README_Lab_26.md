@@ -1,3 +1,10 @@
+<img width="957" height="773" alt="image" src="https://github.com/user-attachments/assets/b6df1fd5-ad11-4e4e-abb0-f873aaf4b417" />
+
+
+
+
+
+
 # **LAB 26: SITE-TO-SITE IPSEC VPN CONFIGURATION (FINAL)**
 
 **Document Type:** Network Security & Site-to-Site Encrypted Tunneling
