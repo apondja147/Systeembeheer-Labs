@@ -2,7 +2,7 @@
 
 
 
-# **LAB 22: INTER-VLAN ROUTING & OSPF DYNAMIC ROUTING**
+# **LAB 27: INTER-VLAN ROUTING & OSPF DYNAMIC ROUTING**
 
 **Document Type:** Network Infrastructure & Routing Configuration
 
