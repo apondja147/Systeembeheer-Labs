@@ -1,3 +1,7 @@
+<img width="957" height="773" alt="image" src="https://github.com/user-attachments/assets/f80b5cf5-69ae-42ce-ad7c-39bec2ed9717" />
+
+
+
 # **LAB 22: INTER-VLAN ROUTING & OSPF DYNAMIC ROUTING**
 
 **Document Type:** Network Infrastructure & Routing Configuration
