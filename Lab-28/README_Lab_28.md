@@ -1,3 +1,7 @@
+<img width="953" height="776" alt="image" src="https://github.com/user-attachments/assets/f689f96d-74d4-4c79-bcf2-a9892c079232" />
+
+
+
 # **LAB 28: OSPF MD5 AUTHENTICATION & ROUTING PROTOCOL HARDENING (FINAL)**
 
 **Document Type:** Dynamic Routing Security & OSPF Infrastructure Hardening  
