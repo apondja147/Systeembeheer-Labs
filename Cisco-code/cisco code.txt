@@ -1,0 +1,8 @@
+router 1: 
+admin
+C1scoOT2026!
+cisco123
+
+
+router 2:
+defensie2026
