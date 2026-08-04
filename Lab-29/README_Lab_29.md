@@ -1,3 +1,7 @@
+<img width="955" height="772" alt="image" src="https://github.com/user-attachments/assets/41a4ee17-347e-4bb6-b951-33752a71b6d5" />
+
+
+
 # **LAB 29: OSPF RECONNAISSANCE MITIGATION & PASSIVE INTERFACE HARDENING (FINAL)**
 
 **Document Type:** Routing Infrastructure Hardening & Reconnaissance Defense  
