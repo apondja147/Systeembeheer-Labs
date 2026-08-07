@@ -1,3 +1,7 @@
+<img width="958" height="771" alt="image" src="https://github.com/user-attachments/assets/cd36430c-8af1-4465-8e7c-536e684a7d8d" />
+
+
+
 # **LAB 30: PURDUE MODEL MICRO-SEGMENTATION & EXTENDED ACCESS CONTROL LISTS (FINAL)**
 
 **Document Type:** Layer 3/4 Inter-Zone Access Control & Purdue Micro-Segmentation  
