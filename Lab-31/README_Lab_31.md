@@ -1,3 +1,7 @@
+<img width="952" height="777" alt="image" src="https://github.com/user-attachments/assets/8b3db70f-edef-412b-8701-450e39034a32" />
+
+
+
 # **LAB 31: DEFENSE-IN-DEPTH MICRO-SEGMENTATION & SITE-B INTER-ZONE ACL HARDENING (FINAL)**
 
 **Document Type:** Multi-Site Inter-Zone Security & Local Gateway Hardening  
