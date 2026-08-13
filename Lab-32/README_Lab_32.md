@@ -1,3 +1,8 @@
+<img width="960" height="778" alt="image" src="https://github.com/user-attachments/assets/55b22bd4-5448-4c6d-915a-411ac734436f" />
+
+
+
+
 # **LAB 32: EXTERNAL BGP (eBGP) INTER-SITE ROUTING & AUTONOMOUS SYSTEM PEERING (FINAL)**
 
 **Document Type:** Layer 3 WAN Routing & Exterior Gateway Protocol Hardening  
